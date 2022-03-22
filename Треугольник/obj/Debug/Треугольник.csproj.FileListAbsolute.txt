@@ -1,0 +1,10 @@
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\bin\Debug\Треугольник.exe.config
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\bin\Debug\Треугольник.exe
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\bin\Debug\Треугольник.pdb
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.csproj.AssemblyReference.cache
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.Form1.resources
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.Properties.Resources.resources
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.csproj.GenerateResource.cache
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.csproj.CoreCompileInputs.cache
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.exe
+C:\Users\kuksheva-ba\source\repos\Треугольник\Треугольник\obj\Debug\Треугольник.pdb
